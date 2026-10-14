@@ -29,14 +29,6 @@ export default function Home() {
     <main className="mx-auto max-w-6xl px-4 py-6 sm:py-10 print:p-0">
       <div className="no-print mb-4 flex flex-wrap justify-end gap-2">
         <a
-          href={profile.github}
-          target="_blank"
-          rel="noreferrer"
-          className="rounded-md border border-navy/20 bg-white px-4 py-2 text-sm font-medium text-navy transition hover:border-navy/50"
-        >
-          GitHub
-        </a>
-        <a
           href={profile.pdf}
           download
           className="rounded-md bg-navy px-4 py-2 text-sm font-medium text-white transition hover:bg-navy/90"

@@ -3,7 +3,6 @@ export const profile = {
   role: "Senior Software Engineer",
   email: "ezequielkoulaksezian@gmail.com",
   phone: "+54 9 11 8034 2030",
-  github: "https://github.com/ezequielkoulaksezian",
   pdf: "/CV_Ezequiel_Koulaksezian.pdf",
   about:
     "Product-oriented software engineer with 7+ years of experience building AI-powered products, scalable frontend systems, and end-to-end user experiences across startups and fast-moving teams. Specializes in turning ambiguous product ideas into polished, production-ready software — combining frontend engineering with systems thinking, UX sensitivity, and rapid iteration.",
